@@ -1,0 +1,30 @@
+{
+  "name": "express-websocket-server",
+  "version": "1.0.0",
+  "description": "A websocket example for Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcxa/express-websocket-server.git"
+  },
+  "keywords": [
+    "express",
+    "websockeet"
+  ],
+  "author": "Your name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamcxa/express-websocket-server/issues"
+  },
+  "homepage": "https://github.com/iamcxa/express-websocket-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "jsonwebtoken": "^8.5.1",
+    "ws": "^7.1.2"
+  }
+}
