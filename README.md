@@ -1,4 +1,4 @@
-# EXPRESS-WEBSOCKET-SERVER
+# EXAMPLE-EXPRESS-WEBSOCKET-SERVER
 
 A sample Express.js server with Websocket library ws implementation.
 
