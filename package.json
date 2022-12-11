@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/iamcxa/express-websocket-server#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.16.2",
     "jsonwebtoken": "^8.5.1",
     "ws": "^7.1.2"
